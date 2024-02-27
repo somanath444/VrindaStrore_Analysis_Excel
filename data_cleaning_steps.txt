@@ -1,0 +1,7 @@
+* we have four categories in the gender column, male,female,m,f as i can see that genders are entered in different ways
+
+* replaced m to male, female to f
+
+* created a new column called 'Age Group' with a formula based on the Age's under 30 gave Teenager, above 30 Adult, above 50 Senior.
+
+
